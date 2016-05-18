@@ -1,23 +1,22 @@
 ## コマンドの説明
 
 1. grep - ファイル中からデータを検索する
-1. touch
-1. head
-1. tail
-1. sort
-1. uniq
-1. tr
-1. diff
-1. useradd
-1. usermod
-1. userdel
-1. groupadd
-1. groupmod
-1. groupdel
-1. passwd
-1. su
-1. sudo
-1. chown
-1. chgrp
-1. chmod
-1. umask
+1. touch - 空のファイルの作成
+1. head　-　ファイルの先頭部分を表示する
+1. tail　-　ファイルの末尾を表示する
+1. sort　-　行を並び替える
+1. uniq　-　ファイルの重複した行の削除
+1. tr　-　文字を一括変換する
+1. diff　-　2つのファイルの差分を出力
+1. useradd　-　新規ユーザーの作成
+1. usermod　-　ユーザーアカウント情報の変更
+1. groupadd　-　グループを作成する
+1. groupmod　-　グループ情報の変更
+1. groupdel　-　グループを削除する
+1. passwd　-　ユーザーのパスワードの変更
+1. su　-　ユーザーを切り替える
+1. sudo　-　指定したユーザーでコマンドを実行する
+1. chown　-　ファイルの所有者やグループを変更
+1. chgrp　-　ファイルやディレクトリのグループを変更
+1. chmod　-　ファイル、ディレクトリのパーミッションを変更
+1. umask　-　ファイル作成時のパーミッションを表示
